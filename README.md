@@ -10,6 +10,7 @@ I have created responsive login & registration form using HTML,CSS & Javascript.
 <p>
   <ul>
     <li>Drop a pull request if you found a new feture✨</li>
-    <li>Don't forget to star⭐ if you <a href="https://harshi-12367.github.io/login-page/">live it.</a></li>
+    <li>To see the web page <a href="https://harshi-12367.github.io/login-page/">click here.</a></li>
+    <li>Don't forget to star⭐ if you like it</li>
   </ul></p>
 
